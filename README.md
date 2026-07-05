@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:1E0B2D&height=220&section=header&text=Venesa%20Bashiri&fontSize=65&fontColor=D4B5FF&animation=fadeIn&fontAlignY=40&desc=Senior%20Product%20Designer%20%E2%80%94%20UX%2FUI&descAlignY=58&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:4A00E0&height=220&section=header&text=Venesa%20Bashiri&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Senior%20Product%20Designer%20%E2%80%94%20UX%2FUI&descAlignY=58&descSize=20"/>
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=20&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=800&lines=Turning+Complex+AI+Systems+into+Clear+User+Experiences;Experiences+that+reduce+confusion+and+build+trust;Designing+solutions+that+survive+handoff+and+ship+well" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=B388FF&center=true&vCenter=true&width=900&lines=Design+is+how+it+works,+not+just+how+it+looks;Turning+Complex+Systems+into+Clear+User+Experiences;Bridging+user+empathy+with+scalable+business+logic;Reducing+cognitive+load+through+mindful+architecture;Experiences+that+reduce+confusion+and+build+trust;Designing+solutions+that+survive+handoff+and+ship+well" />
   <br><br>
   <a href="https://z-bashiry-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/z-bashiri/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=D4B5FF"/></a>
@@ -53,7 +53,7 @@ As a UX/UI designer, I care deeply about how good thinking becomes real executio
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1E0B2D,100:000000&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:000000&height=120&section=footer"/>
   <br>
   <sub style="color: #9D4EDD;">✦ Crafting clarity in complex systems ✦</sub>
 </div>
