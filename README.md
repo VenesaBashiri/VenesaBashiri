@@ -1,39 +1,63 @@
-<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:FF0080&height=220&section=header&text=Zohre%20Bashiry&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Senior%20Product%20Designer%20%E2%80%94%20UI%2FUX&descAlignY=58&descSize=20"/> <br> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=2500&pause=800&color=FF0080&center=true&vCenter=true&width=600&lines=Designing+interfaces+people+fall+in+love+with;Simplicity+%2B+Emotion+%2B+Craft;UI+%E2%80%A2+UX+%E2%80%A2+Design+Systems" />
-<br><br>
-<a href="https://z-bashiry-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-FF0080?style=for-the-badge&logo=vercel&logoColor=white"/></a> <a href="https://www.linkedin.com/in/z-bashiri/"><img src="https://img.shields.io/badge/LINKEDIN-8E2DE2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://dribbble.com/VenesaDesign"><img src="https://img.shields.io/badge/DRIBBBLE-FF0080?style=for-the-badge&logo=dribbble&logoColor=white"/></a> <a href="mailto:Z.bashiiry@gmail.com"><img src="https://img.shields.io/badge/EMAIL-8E2DE2?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</div> <br>
-🪩 About
-<img align="right" width="220" src="https://api.dicebear.com/7.x/avataaars/svg?seed=Zohre&backgroundColor=ffd5ec,ffdfbf&top=longHairStraight2&hairColor=2c1b18&skinColor=edb98a&clothing=blazerAndSweater&clothingColor=8e2de2">
-I'm a Senior Product Designer obsessed with turning complicated problems into effortless, beautiful interfaces. I care about pixels, systems, and the person on the other side of the screen — in equal measure.
-Currently shaping product at [Company Name], focused on [product area].
-Off-screen: coffee, color palettes, and way too many Figma files.
-<br clear="right">
-🎨 Design Focus
-<div align="left">
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:2A2A2A&height=250&section=header&text=Venesa%20Bashiri&fontSize=65&fontColor=E2B973&animation=fadeIn&fontAlignY=40&desc=Product%20Designer%20%E2%80%94%20UX%2FUI&descAlignY=58&descSize=20"/>
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=20&duration=3000&pause=1000&color=A3A3A3&center=true&vCenter=true&width=800&lines=Turning+Complex+AI+Systems+into+Clear+User+Experiences;Experiences+that+reduce+confusion+and+build+trust;Designing+solutions+that+survive+handoff+and+ship+well" />
+  <br><br>
+  <a href="https://z-bashiry-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/z-bashiri/"><img src="https://img.shields.io/badge/LINKEDIN-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://dribbble.com/VenesaDesign"><img src="https://img.shields.io/badge/DRIBBBLE-1A1A1A?style=for-the-badge&logo=dribbble&logoColor=white"/></a>
+  <a href="mailto:Z.bashiiry@gmail.com"><img src="https://img.shields.io/badge/EMAIL-1A1A1A?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
-🛠 Tools
+<br>
+
+## ✦ About Me
+
+> **Product Designer | Turning Complex AI and Multilingual Systems into Clear, Trustworthy User Experiences**
+
+I’m drawn to systems that make sense. In nature, every part has a role, everything connects, and nothing exists without purpose. That way of thinking shapes how I approach product design and team leadership.
+
+I believe digital products should feel clear, trustworthy, and genuinely helpful. Too often, software creates stress instead of solving it. That’s why I focus on building experiences that reduce confusion, support real user needs, and create value for the business without compromising ethics.
+
+In practice, this means looking beyond screens and visuals. My team and I work on the structure behind the experience: the unclear flows, the hidden friction, and the decisions that quietly break trust. We refine products until they feel more intuitive, more reliable, and easier to use in everyday life.
+
+As a UX/UI designer, I care deeply about how good thinking becomes real execution. I help designers work with clarity, ask better questions, and build solutions that survive handoff and ship well. I’m especially motivated by work at the intersection of AI, health, and medicine, where thoughtful systems can make life simpler, safer, and more human.
+
+<br>
+
+## ✦ Tech & Tools
+
 <div align="left">
-<img src="https://skillicons.dev/icons?i=figma&theme=dark" height="40"/>  <img src="https://img.shields.io/badge/Framer-000000?style=for-the-badge&logo=framer&logoColor=white" height="40"/>  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" height="40"/>  <img src="https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white" height="40"/>
-</div> <br>
-💼 Experience
-<table> <tr><td>
-Senior Product Designer & Team Lead — Raima Studio <sub>2023 — Present</sub> Mentoring designers and shaping product vision, while hands-on building scalable design systems and bridging the gap between creative branding and technical implementation. UI/UX Design Responsive Design +6 more
-Senior Product Designer & Head of Design Team — Sarkhas Company (Remote) <sub>2021 — 2023</sub> Led end-to-end product design for logistics and e-commerce platforms, building scalable design systems, improving cross-team workflows, and driving measurable gains in usability, accessibility, and user satisfaction. Figma WCAG +6 more
-Front-end Developer & UI/UX Designer — Aio Company (Remote) <sub>2017 — 2019</sub> Drove UI/UX strategy and leadership for complex internal tools, bridging design and front-end development to streamline workflows, reduce rework, and improve operational efficiency through iterative, data-driven design. HTML CSS +7 more
-</td></tr> </table> <br> <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,100:8E2DE2&height=100&section=footer"/>
-<sub>✨ let's design something people love ✨</sub>
+  <img src="https://skillicons.dev/icons?i=figma,framer,notion,webflow,html,css&theme=dark" height="48"/>
 </div>
-<!--
-**zbashiri/Zbashiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+## ✦ Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table width="100%">
+  <tr>
+    <td width="100%">
+      <b>Senior Product Designer & Team Lead</b> — <i>Raima Studio</i> <sup>(2023 — Present)</sup><br>
+      Mentoring designers and shaping product vision, while hands-on building scalable design systems and bridging the gap between creative branding and technical implementation.
+    </td>
+  </tr>
+  <tr>
+    <td width="100%">
+      <b>Senior Product Designer & Head of Design Team</b> — <i>Sarkhas Company (Remote)</i> <sup>(2021 — 2023)</sup><br>
+      Led end-to-end product design for logistics and e-commerce platforms, building scalable design systems, improving cross-team workflows, and driving measurable gains in usability, accessibility, and user satisfaction.
+    </td>
+  </tr>
+  <tr>
+    <td width="100%">
+      <b>Front-end Developer & UI/UX Designer</b> — <i>Aio Company (Remote)</i> <sup>(2017 — 2019)</sup><br>
+      Drove UI/UX strategy and leadership for complex internal tools, bridging design and front-end development to streamline workflows, reduce rework, and improve operational efficiency through iterative, data-driven design.
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2A2A2A,100:0A0A0A&height=120&section=footer"/>
+  <br>
+  <sub>✦ Crafting clarity in complex systems ✦</sub>
+</div>
